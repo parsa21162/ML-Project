@@ -133,10 +133,6 @@ streamlit run demo/app.py
 3. **Transfer Learning:** Fine-tuned BERT model
 4. **Regularization:** Dropout, early stopping
 
-## 👥 Team Members
-- [Name 1] - [Responsibility]
-- [Name 2] - [Responsibility]
-- [Name 3] - [Responsibility]
 
 ## 📝 References
 1. [Paper/Article 1]
